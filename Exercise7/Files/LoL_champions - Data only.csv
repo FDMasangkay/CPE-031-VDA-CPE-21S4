@@ -1,0 +1,24 @@
+Name,Tags,Role,Range type,Resourse type,Base HP,Movement speed,Base armor,Base magic resistance,Attack range,HP regeneration,Attack damage,Attack speed
+Aatrox,"Tank, Fighter",Top,Melee,Blood Well,650,345,38,32,175,3,60,0.651
+Alistar,"Tank,Support",Support,Melee,Mana,685,330,47,32,125,8.5,62,0.625
+Amumu,"Tank,Support",Jungle,Melee,Mana,685,335,33,32,125,9,57,0.736
+Blitzcrank,"Tank, Support",Support,Melee,Mana,600,325,37,32,125,7.5,62,0.625
+Braum,"Tank, Support",Support,Melee,Mana,610,335,47,32,125,8.5,55,0.644
+Camille,"Tank,Fighter",Top,Melee,Mana,670,340,35,32,125,8.5,68,0.644
+Cho'Gath,"Tank,Fighter",Top,Melee,Mana,644,345,38,32,125,9,69,0.625
+Darius,"Tank,Fighter",Top,Melee,Mana,652,340,39,32,175,10,64,0.625
+Dr. Mundo,"Tank,Fighter",Top,Melee,,613,345,32,29,125,7,61,0.67
+Galio,"Tank, Mage",Middle,Melee,Mana,632,340,24,32,150,8,59,0.625
+Garen,"Tank,Fighter",Top,Melee,,690,340,38,32,175,8,69,0.625
+Gnar,"Tank,Fighter",Top,Ranged,Rage,540,335,32,30,175,4.5,57,0.625
+Gragas,"Tank,Fighter",Jungle,Melee,Mana,640,330,38,32,125,5.5,64,0.675
+Renekton,"Tank,Fighter",Top,Melee,Fury,660,345,35,28,125,8,69,0.665
+Rengar,"Tank,Fighter",Jungle,Melee,Ferocity,590,345,34,32,125,6,68,0.667
+Riven,"Tank,Fighter",Top,Melee,,630,340,33,32,125,8.5,64,0.625
+Sejuani,"Tank,Fighter",Jungle,Melee,Mana,630,340,34,32,150,8.5,66,0.688
+Sett,"Tank,Fighter",Top,Melee,Grit,670,340,33,28,125,7,60,0.625
+Shen,"Tank,Fighter",Top,Melee,Energy,610,340,34,32,125,8.5,64,0.751
+Shyvana,"Tank,Fighter",Jungle,Melee,Fury,665,350,38,32,125,8.5,66,0.658
+Singed,"Tank,Fighter",Top,Melee,Mana,650,345,34,32,125,9.5,63,0.625
+Sion,"Tank,Fighter",Top,Melee,Mana,655,345,32,32,175,7.5,68,0.679
+Skarner,"Tank,Fighter",Jungle,Melee,Mana,610,335,33,32,150,7.5,60,0.625
